@@ -9,7 +9,7 @@ This repo contains all of the Jupyter notebooks for the BEAT AML machine learnin
 **Main Question: Which features of the tumor are predictive of response to certain drug candidates?**
 
 ## What is in these notebooks?
-Notebook 1- Contains the cleaning of the datasets and some exploratory data analysis \n
-Notebook 2- My attempt at making a classifier to identify the responders and non-responders to a particular drug \n
-Notebook 3- Making a regression model to determine the extent of response to a particular drug, also the interpretation of that model \n
-Notebook 4- Automating the process of optimizing gradient boosting decision trees for several more drugs. Comparing feature importances from models predicting response to multiple different drugs. \n
+Notebook 1- Contains the cleaning of the datasets and some exploratory data analysis      
+Notebook 2- My attempt at making a classifier to identify the responders and non-responders to a particular drug       
+Notebook 3- Making a regression model to determine the extent of response to a particular drug, also the interpretation of that model       
+Notebook 4- Automating the process of optimizing gradient boosting decision trees for several more drugs. Comparing feature importances from models predicting response to multiple different drugs.     
